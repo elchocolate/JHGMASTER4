@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-
+[COLOR red] _**_ [/COLOR][COLOR  skyblue]  [/COLOR][COLOR red] _**_ [/COLOR]
 
 <item>
-<title>[COLOR white][COLOR red] •  [/COLOR] NICKELODEON[/COLOR] </title>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] NICKELODEON [/COLOR][COLOR red] _**_ [/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -16,7 +16,7 @@
 </item>
 
 <item>
-<title>[COLOR white][COLOR red] •  [/COLOR] BOING[/COLOR] </title>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] BOING [/COLOR][COLOR red] _**_ [/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -29,7 +29,7 @@
 </item>
 
 <item>
-<title>[COLOR white][COLOR red] •  [/COLOR] DISNEY CHANNEL [/COLOR] </title>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] DISNEY CHANNEL [/COLOR][COLOR red] _**_ [/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
@@ -42,7 +42,7 @@
 </item>
 
 <item>
-<title>[COLOR white][COLOR red] •  [/COLOR] DISNEY XD[/COLOR] </title>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] DISNEY xd [/COLOR][COLOR red] _**_ [/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex>
 <name>GetPageUrl</name>
