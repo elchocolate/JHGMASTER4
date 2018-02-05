@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+<item>
+<title>[COLOR white][COLOR red] •  [/COLOR] NICKELODEON[/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=nickelones</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/6/62/NICKELODEON_Logo.png/revision/latest?cb\x3d20111106061132</thumbnail>
+<fanart></fanart>  
+</item>
+
+<item>
+<title>[COLOR white][COLOR red] •  [/COLOR] BOING[/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=boing</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png</thumbnail>  
+<fanart></fanart>  
+</item>
+
+<item>
+<title>[COLOR white][COLOR red] •  [/COLOR] DISNEY CHANNEL [/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=disneychannel</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2015_Disney_Channel_logo.svg/1200px-2015_Disney_Channel_logo.svg.png</thumbnail> 
+<fanart></fanart>  
+</item>
+
+<item>
+<title>[COLOR white][COLOR red] •  [/COLOR] DISNEY XD[/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=disneyxd</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://vignette.wikia.nocookie.net/disney/images/7/7b/Logo_Disney_XD.svg.png/revision/latest?cb=20130730004116</thumbnail>  
+<fanart></fanart>  
+</item>
