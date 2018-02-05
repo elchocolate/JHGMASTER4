@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] TV MEDITERRANEO [/COLOR][COLOR red] _**_ [/COLOR]</title>
+<link>http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/chunklist_w1822766098_b850000.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
+
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] SAN ROQUE TV [/COLOR][COLOR red] _**_ [/COLOR] </title>
+<link>http://188.165.135.22/sanroque/mystream/chunklist_w1703138822.m3u8</link>
+<thumbnail></thumbnail>  
+<fanart></fanart>  
+</item>
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] TV ALCOI [/COLOR][COLOR red] _**_ [/COLOR] </title>
+<link>http://92.222.37.18/hls/tvaxa.m3u8</link>
+<thumbnail></thumbnail>  
+<fanart></fanart>  
+</item>
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] TV VALENCIA [/COLOR][COLOR red] _**_ [/COLOR]</title>
+<link>http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8</link>
+<thumbnail></thumbnail>  
+<fanart></fanart>  
+</item>
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] TV4 LA VALL [/COLOR][COLOR red] _**_ [/COLOR] </title>
+<link>http://188.165.135.22/15o8376r/mystream/chunklist_w511176900.m3u8</link>
+<thumbnail></thumbnail>  
+<fanart></fanart>  
+</item>
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] CANAL COCINA SUR [/COLOR][COLOR red] _**_ [/COLOR]</title>
+<link>http://cast.streamingconnect.com:1935/cscocina/cscocina/chunklist_w177453987.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] MIRARME TV [/COLOR][COLOR red] _**_ [/COLOR]</title>
+<link>http://controlstreams.com:1935/mirametv/mirametv/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
+				
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] TELE ELX [/COLOR][COLOR red] _**_ [/COLOR]</title>
+<link>rtmp://teledifusion.tv/teleelx/teleelxlive</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>			
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] TV MURCIA [/COLOR][COLOR red] _**_ [/COLOR]</title>
+<link>http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] TELEMADRID [/COLOR][COLOR red] _**_ [/COLOR]</title>
+<link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] CANAL SUR [/COLOR][COLOR red] _**_ [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9_mHRWjztNU</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] EXTREMADURA TV [/COLOR][COLOR red] _**_ [/COLOR]</title>
+<link>http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] TVCAT [/COLOR][COLOR red] _**_ [/COLOR]</title>
+<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] SUPER 3 Y C33 [/COLOR][COLOR red] _**_ [/COLOR]</title>
+<link>http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/chunklist_b1296000.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] 8TV [/COLOR][COLOR red] _**_ [/COLOR]</title>
+<link>rtmp://91.121.143.193:1935/liverepeater/8TV/8aldia-directe</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] 3/24 [/COLOR][COLOR red] _**_ [/COLOR]</title>
+<link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
