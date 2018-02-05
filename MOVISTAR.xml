@@ -4,33 +4,6 @@
 
 
 <item>
-<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] SYFY [/COLOR][COLOR red] _**_ [/COLOR]</title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=sysfesp</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxI4mcEB0EE0Olfuoex0sCDqvKBfHU1nX9X6gHnuGWnA44tQO0</thumbnail>
-<fanart></fanart>  
-</item>
-
-<item>
-<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] SYFY [/COLOR][COLOR red] _**_ [/COLOR]</title>
- <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed2.php?file=sysfesp&amp;width=650&amp;height=397</page>
-<cookieJar></cookieJar>
-</regex>
-<referer>http://cinestrenostv.tv</referer>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxI4mcEB0EE0Olfuoex0sCDqvKBfHU1nX9X6gHnuGWnA44tQO0</thumbnail>
-<fanart></fanart>  
-</item>
-
-<item>
 <title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] AXN [/COLOR][COLOR red] _**_ [/COLOR]</title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
 <regex>
@@ -113,6 +86,33 @@
 </item>
 
 
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] SYFY [/COLOR][COLOR red] _**_ [/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=sysfesp</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxI4mcEB0EE0Olfuoex0sCDqvKBfHU1nX9X6gHnuGWnA44tQO0</thumbnail>
+<fanart></fanart>  
+</item>
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] SYFY [/COLOR][COLOR red] _**_ [/COLOR]</title>
+ <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=sysfesp&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxI4mcEB0EE0Olfuoex0sCDqvKBfHU1nX9X6gHnuGWnA44tQO0</thumbnail>
+<fanart></fanart>  
+</item>
 
 
 
