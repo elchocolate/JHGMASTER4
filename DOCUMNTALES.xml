@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+<item>
+<title>[COLOR white][COLOR red] •  [/COLOR]  DISCOVERY CHANNEL [/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://vergol.com/live/discovery-channel.php</page>
+<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://3.bp.blogspot.com/_n06ZCfJKIQI/TA69uL-ivcI/AAAAAAAAEWc/u0Uk3V5oXpw/s1600/Discovery-logo.jpg</thumbnail>   
+<fanart></fanart> 
+</item>
+
+
+<item>
+<title>[COLOR white][COLOR red] •  [/COLOR]  ODISEA[/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=odiseatelef&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.formulatv.com/images/articulos/55000/n55629_d8fe9d8dd9-q.jpg</thumbnail>  
+<fanart></fanart> 
+</item>
+
+<item>
+<title>[COLOR white][COLOR red] •  [/COLOR] COCINA[/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=cocinaesp</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://img.blogs.es/bloglenovo/wp-content/uploads/2014/08/canal-cocina.jpg</thumbnail>
+<fanart></fanart>  
+</item>
+
+
+<item>
+<title>[COLOR white][COLOR red] •  [/COLOR]  COCINA*[/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://vergol.com/live/cocina.php</page>
+<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://img.blogs.es/bloglenovo/wp-content/uploads/2014/08/canal-cocina.jpg</thumbnail>   
+<fanart></fanart> 
+</item>
+
+<item>
+<title>[COLOR white][COLOR red] •  [/COLOR]  HISTORIA [/COLOR] </title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://vergol.com/live/historia.php</page>
+<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail></thumbnail>   
+</item>
+
+<item>
+<title>[COLOR white][COLOR red] •  [/COLOR]  CRIMEN Y INVESTIGACION [/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=crimenyinvestigacion&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR white][COLOR red] •  [/COLOR]  CAZA Y PESCA  [/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex><name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=cazaypesca&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://latelete.tv/img/cazapesca.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR white][COLOR red] •  [/COLOR]  NATIONAL GEOGRAFIC [/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://vergol.com/live/nationalgeo.php</page>
+<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>http://www.mundoplus.tv/img/5bc429f1faec92059daae09b1c620bef</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red] •  [/COLOR]  DISCOVERY [/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=discoverychannel&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://vercanalestv.com/logos/discovery-channel.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red] •  [/COLOR]  NAT GEO WILD [/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>[",\'](h.*m3u8.*?)'</expres>
+<page>http://vergol.com/live/nationalwild.php</page>
+<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red] •  [/COLOR]  A&E[/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=anadetelefive&width=650&height=400</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white][COLOR red] •  [/COLOR]  MTV [/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=mtvesp&amp;width=100%&amp;height=100%</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://static.adweek.com/adweek.com-prod/wp-content/uploads/sites/2/2015/02/mtv400.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR white][COLOR red] •  [/COLOR]  VIAJAR [/COLOR]</title>
+link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedn.php?file=viajar&amp;width=100%&amp;height=100%</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
