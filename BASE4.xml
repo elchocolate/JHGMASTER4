@@ -79,7 +79,7 @@
 
 
 <item>
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] SERIES  [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] SERIES(off)  [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart><fanart>
@@ -88,12 +88,16 @@
 
 
 <item>
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] PELICULAS  [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] ****  [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart><fanart>
 <externallink></externallink> 
 <item>
+
+
+
+<!--------
 
 <item>
 <title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] RADIOS [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
@@ -110,10 +114,6 @@
 <fanart><fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGMASTER4/master/LISTA.m3u</externallink> 
 <item>
-
-
-<!--------
-
 
 
  
